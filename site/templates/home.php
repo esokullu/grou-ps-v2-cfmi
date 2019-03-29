@@ -26,7 +26,11 @@
             <div class="groups-information groups-box private-feature">
                 <div class="title">About</div>
                 <div class="content">
-                    Sample Page is a sample page to demonstrate how Grou.ps pages look and feel like.
+                    CFMi is Coaching For More...interactive! Your online hub for connecting, learning and sharing.
+                    <br /><br />
+                    Since launching in 1999 CFM Consulting has grown to become one of the leaders in business and executive coaching in the UK and overseas, working across a range of sectors.
+                    <br /><br />
+                    We deliver courses for all levels from beginner to master practitioner. We also offer a variety of coaching and mentoring materials to support coaches and their clients. Now, we are thrilled to offer you an online, mobile, interactive community to ensure your CFM experience has maximum impact and benefit.
                 </div>
             </div>
             <div class="groups-invitation groups-box private-feature">
